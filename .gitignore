@@ -1,3 +1,6 @@
+# Debug files
+*.dSYM
+
 # Prerequisites
 *.d
 
