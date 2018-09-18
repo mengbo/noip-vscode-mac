@@ -1,3 +1,7 @@
+# Do not ignore */*.cpp
+*/*
+!*/*.cpp
+
 # Debug files
 *.dSYM
 
