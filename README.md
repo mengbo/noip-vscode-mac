@@ -1,4 +1,4 @@
-# 在 macOS 下为 NOPI 搭建编程环境
+# 在 macOS 下为 NOIP 搭建编程环境
 
 全国青少年信息学奥林匹克联赛（National Olympiad in Informatics in Provinces，简称NOIP），目前比赛多数使用 C++ 来编写程序，至于编程环境目前多数教练使用 Win 下的 Dev C++ 或者 C-Free，在 macOS 下很多相关书籍建议使用 Xcode 这样复杂的 IDE 来写程序。考虑到孩子在用的旧型号 MacBook Pro 性能不高，Xcode 应该是没法跑了，所以只能配置一个基于 VSCode 下的 C/C++ 开发环境。
 
