@@ -1,4 +1,5 @@
 {
     "C_Cpp.clang_format_fallbackStyle": "LLVM",
+    "C_Cpp.debugShortcut": false,
     "editor.tabSize": 2
 }
