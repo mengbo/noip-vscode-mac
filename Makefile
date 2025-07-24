@@ -1,7 +1,7 @@
 CC = clang
 CXX = clang++
 CFLAGS = -g -Wall
-CXXFLAGS = -g -Wall -std=c++11
+CXXFLAGS = -g -Wall -std=c++11 -stdlib=libc++
 
 C_SRCS = $(wildcard *.c) $(wildcard */*.c)
 CXX_SRCS = $(wildcard *.cpp) $(wildcard */*.cpp)
